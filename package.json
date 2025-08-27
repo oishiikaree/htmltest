@@ -1,0 +1,22 @@
+{
+  "name": "htmltest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oishiikaree/htmltest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oishiikaree/htmltest/issues"
+  },
+  "homepage": "https://github.com/oishiikaree/htmltest#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
